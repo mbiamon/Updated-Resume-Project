@@ -1,0 +1,49 @@
+H2 {
+  font-size:25px;
+  font-weight:bold;
+  text-transform: uppercase;
+}
+
+H3 {
+  font-size:22px;
+  font-weight: bold;
+}
+
+H4 {
+  font-size:20px;
+}
+
+H5 {
+  font-size:16px;
+  font-style:italic;
+}
+
+li {
+  font-size:25px;
+  text-align:center;
+}
+
+.experience_image {
+  width: 450px;
+  height:600px;
+}
+
+.skills_image {
+  width: 450px;
+  height:600px;
+}
+
+.image1 {
+  width: 100%;
+  float: center;
+  margin-right: 150px;
+  margin-bottom: 50px;
+}
+
+#introduction {
+  font-size:17px;
+}
+
+#Experience {
+  font-size:13px;
+}
